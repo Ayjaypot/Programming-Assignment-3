@@ -1,6 +1,6 @@
 # Programming-Assignment-3
 ## This Assignment aims to test the students in the usage of the pandas library and how to utilize the different functions in handling the different data in dataframes. The assignment has two problems with the 2nd problem being seperated into different parts
-## For the first problem the goal is to load a downloaded csv file as Cars. The first and last 5 rows are then displayed through the use of the heads and tails functions which displays the first and last 5 rows respectively.
+### For the first problem the goal is to load a downloaded csv file as Cars. The first and last 5 rows are then displayed through the use of the heads and tails functions which displays the first and last 5 rows respectively.
 Output: ![image](https://github.com/user-attachments/assets/8a00bae8-7bb2-4d38-9901-f81aaabc1bd0)
 
 Code: ![image](https://github.com/user-attachments/assets/7bf45608-e0df-4358-a675-1344b18b18ac)
